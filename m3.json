@@ -6,7 +6,7 @@
 		  "name":"放屁音乐",
 		  "url":"https://gcore.jsdelivr.net/gh/HuShanquan3/MusicTvBoxMobile/py_fangpi.py",
 		  "version":"0.1.0"
-	  },
+	  }
   ],
   "spider": "./fty.jar;md5;602fb3226d777850053484cdeb2f3296",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
